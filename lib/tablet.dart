@@ -20,7 +20,7 @@ class TabletScreen extends StatelessWidget {
             ),
           ),
           Center(
-            child: Text('this is left text'),
+            child: Text('this is left text2'),
           ),
         ],
       ),
